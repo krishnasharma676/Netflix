@@ -2,7 +2,7 @@ import "./Home.scss";
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { BiPlay } from "react-icons/bi";
-import { BiPlus } from "react-icons/bi";
+
 
 const apikey = "cf66cbe1f2df46bf6cb433c5d84ec04e";
 const url = "https://api.themoviedb.org/3";
